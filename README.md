@@ -84,69 +84,28 @@ const wenliang = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2024
+> 🏆 353 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                89 commits          █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-🌆 Daytime                167 commits         █████████░░░░░░░░░░░░░░░░   35.76 % 
-🌃 Evening                199 commits         ███████████░░░░░░░░░░░░░░   42.61 % 
-🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   108 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Tuesday                  77 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Wednesday                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Thursday                 44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Friday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Saturday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
-PostScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TeX                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PostScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TeX                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -156,7 +115,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zengwenliang0416/Zengwenliang0416/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2024 07:27:20 UTC
+ Last Updated on 16/12/2024 18:48:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
