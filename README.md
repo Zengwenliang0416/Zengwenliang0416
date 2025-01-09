@@ -84,15 +84,11 @@ const wenliang = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🏆 18 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -100,45 +96,6 @@ const wenliang = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                136 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-🌆 Daytime                255 commits         ██████████░░░░░░░░░░░░░░░   40.41 % 
-🌃 Evening                227 commits         █████████░░░░░░░░░░░░░░░░   35.97 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   128 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Tuesday                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Wednesday                118 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Thursday                 106 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Friday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Sunday                   33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -156,7 +113,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zengwenliang0416/Zengwenliang0416/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2025 18:44:56 UTC
+ Last Updated on 09/01/2025 18:46:08 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
