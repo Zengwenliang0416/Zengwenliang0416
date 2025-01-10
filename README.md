@@ -84,26 +84,69 @@ const wenliang = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                270 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+🌆 Daytime                451 commits         ██████████░░░░░░░░░░░░░░░   41.80 % 
+🌃 Evening                340 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   193 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Tuesday                  172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Wednesday                197 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Thursday                 221 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Friday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Saturday                 60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Sunday                   49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -113,7 +156,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Zengwenliang0416/Zengwenliang0416/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:46:08 UTC
+ Last Updated on 10/01/2025 18:45:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
